@@ -1,14 +1,15 @@
 # AIに関する勉強
 
-## 調査していくキーワード(随時更新)
-* パーセプトロン
-* ニューラルネットワーク
-* 活性化関数
-* 損失関数
+## 実際TensorFlowのチュートリアルを動かしてみる
 
-## 調査結果(随時更新)
-* [パーセプトロン](https://github.com/learn-ttm/AI_study/blob/master/text/perceptron.md)
+TensorFlowのチュートリアルは多く存在するが、とりあえずコード量の少ないものから。  
+(理解が追い付かないので)  
 
-## 実際に動作させてみる
-* TensorFlowのチュートリアル(音声認識)  
-https://www.tensorflow.org/tutorials/audio_recognition
+なお、チュートリアルは数が多く、何が何をやっているのか分かりづらい。  
+以下のサイトでキーワード別に紹介してくれているので参考にしたらいいかも。  
+http://hiyoko9t.hatenadiary.jp/entry/2017/10/09/195317
+
+まずは、基礎的な以下を見てみる。
+
+* 順伝播型のニューラルネットワーク  
+https://www.tensorflow.org/tutorials/layers
