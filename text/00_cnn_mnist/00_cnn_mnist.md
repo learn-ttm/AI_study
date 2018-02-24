@@ -2,7 +2,7 @@
 
 ## チュートリアルのファイルを動かす
 
-以下のファイルを動作させてみる。
+以下のファイルを動作させてみる。  
 tensorflow/examples/tutorials/layers/cnn_mnist.py
 
 ### ■動作結果
@@ -27,5 +27,5 @@ pythonファイルを最後まで実施すると以下の結果が表示され�
 ※localhost:6006で起動するらしいのだが、自分のPCでは起動せず…。
 
 実際に表示されたグラフは以下。  
-学習が進むにつれ、誤差が小さくなっていることが分かる。
+学習が進むにつれ、誤差が小さくなっていることが分かる。  
 ![](https://raw.githubusercontent.com/learn-ttm/AI_study/image/image/loss.png)
